@@ -1,0 +1,1434 @@
+gene_name	drug_name	interaction_type	source	gene_categories	UC	CD
+IL6	VX-702	n/a	DrugBank	cell surface,drug resistance,external side of plasma membrane,growth factor	false	false
+IL6	VX-702	n/a	DrugBank	cell surface,drug resistance,external side of plasma membrane,growth factor	false	false
+PTGS2	IBUPROFEN	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PHENYLBUTAZONE	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MELOXICAM	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ROFECOXIB	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETORICOXIB	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TIAPROFENIC ACID	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LUMIRACOXIB	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DIFLUNISAL	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETODOLAC	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TENOXICAM	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIFLUMIC ACID	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PIROXICAM	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MEFENAMIC ACID	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIMESULIDE	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	GW-406381	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CARPROFEN	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	VALDECOXIB	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NABUMETONE	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TOLMETIN	inhibitor	TTD	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MELOXICAM	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIMESULIDE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	VALDECOXIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ASPIRIN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	VALDECOXIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SUPROFEN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CELECOXIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MECLOFENAMIC ACID	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ROFECOXIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETORICOXIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LUMIRACOXIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MEFENAMIC ACID	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BENZQUINAMIDE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETODOLAC	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CARPROFEN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	IBUPROFEN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	OXAPROZIN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PHENYLBUTAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PIROXICAM	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FLURBIPROFEN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ROFECOXIB	n/a	PharmGKB	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIMESULIDE	n/a	PharmGKB	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CAPECITABINE	n/a	PharmGKB	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETORICOXIB	n/a	PharmGKB	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	VALDECOXIB	n/a	PharmGKB	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETORICOXIB	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FENOPROFEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ASPIRIN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SULINDAC	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	INDOMETHACIN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PHENYLBUTAZONE	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	OXAPROZIN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TOLMETIN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TIAPROFENIC ACID	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MECLOFENAMIC ACID	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DIFLUNISAL	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FLURBIPROFEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NEPAFENAC	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NABUMETONE	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MELOXICAM	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	IBUPROFEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SUPROFEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TENOXICAM	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ACETAMINOPHEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MEFENAMIC ACID	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SALSALATE	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SALICYLIC ACID	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CARPROFEN	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BROMFENAC	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETODOLAC	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LUMIRACOXIB	n/a	TEND	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MECLOFENAMIC ACID	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MEFENAMIC ACID	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PIROXICAM	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DIFLUNISAL	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TENOXICAM	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN ETEMESIL	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETORICOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SALSALATE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIFLUMIC ACID	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	APRICOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SUPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MELOXICAM	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BROMFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PARECOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXCINOD	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LUMIRACOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETODOLAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BALSALAZIDE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	true
+PTGS2	SULFASALAZINE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	true
+PTGS2	KETOPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PHENYLBUTAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CARPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LICOFELONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	OXAPROZIN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FENOPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CIMICOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TOLMETIN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TIAPROFENIC ACID	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ACETAMINOPHEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FLURBIPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NABUMETONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETODOLAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BROMFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BROMFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CELECOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	THALIDOMIDE	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SULINDAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SALICYLIC ACID	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ROFECOXIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	IBUPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NEPAFENAC	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	THALIDOMIDE	antagonist	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SULFASALAZINE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	true
+PTGS2	LICOFELONE	n/a	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FLUFENAMIC ACID	n/a	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MELOXICAM	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NABUMETONE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ROFECOXIB	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LENALIDOMIDE	negative modulator	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	POMALIDOMIDE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PROSTAGLANDIN G2	n/a	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TRISALICYLATE-CHOLINE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SUPROFEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PIROXICAM	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIFLUMIC ACID	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ACETAMINOPHEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TIAPROFENIC ACID	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SALSALATE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BALSALAZIDE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	true
+PTGS2	INDOMETHACIN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	SALICYLIC ACID	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MECLOFENAMIC ACID	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	VALDECOXIB	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	RESVERATROL	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LUMIRACOXIB	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOPROFEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DICLOFENAC	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TENOXICAM	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NAPROXEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ANTRAFENINE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MEFENAMIC ACID	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	LORNOXICAM	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CARPROFEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CELECOXIB	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	BROMFENAC	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	IBUPROFEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	KETOROLAC	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETORICOXIB	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CIMICOXIB	n/a	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	TOLMETIN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DIHOMO-GAMMA-LINOLENIC ACID	n/a	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NEPAFENAC	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FENOPROFEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	FLURBIPROFEN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ANTIPYRINE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	PHENYLBUTAZONE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	OXAPROZIN	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	NIMESULIDE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	MAGNESIUM SALICYLATE	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	DIFLUNISAL	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	ETODOLAC	inhibitor	DrugBank	drug resistance,druggable genome,tumor suppressor	false	false
+PTGS2	CELECOXIB	inhibitor	MyCancerGenomeClinicalTrial	drug resistance,druggable genome,tumor suppressor	false	false
+PLAU	6-FLUORO-2-[2-HYDROXY-3-(2-METHYL-CYCLOHEXYLOXY)-PHENYL]-1H-INDOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-[N-(4-ETHYL-1,2,3,4-TETRAHYDRO-6-ISOQUINOLINYL)CARBAMYL]-2-NAPHTHALENECARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	8-(PYRIMIDIN-2-YLAMINO)NAPHTHALENE-2-CARBOXIMIDAMIDE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	[2,4,6-TRIISOPROPYL-PHENYLSULFONYL-L-[3-AMIDINO-PHENYLALANINE]]-PIPERAZINE-N'-BETA-ALANINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	1-[4-(2-OXO-2-PHENYLETHYL)PHENYL]GUANIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	N-(1-ADAMANTYL)-N'-(4-GUANIDINOBENZYL)UREA	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	AMILORIDE	inhibitor	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-[(Z)-AMINO(IMINO)METHYL]-N-[3-(CYCLOPENTYLOXY)PHENYL]-2-NAPHTHAMIDE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-CHLORO-2-(2-HYDROXY-BIPHENYL-3-YL)-1H-INDOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	TRANS-6-(2-PHENYLCYCLOPROPYL)-NAPHTHALENE-2-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	BENZAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	2-(2-HYDROXY-5-METHOXY-PHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	7-METHOXY-8-[1-(METHYLSULFONYL)-1H-PYRAZOL-4-YL]NAPHTHALENE-2-CARBOXIMIDAMIDE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	THIENO[2,3-B]PYRIDINE-2-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	2-(2-HYDROXY-BIPHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-FLUORO-2-(2-HYDROXY-3-ISOBUTOXY-PHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	4-IODOBENZO[B]THIOPHENE-2-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-[N-(1-ISOPROPYL-1,2,3,4-TETRAHYDRO-7-ISOQUINOLINYL)CARBAMYL]-2-NAPHTHALENECARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	WX-671	n/a	TdgClinicalTrial	cell surface,druggable genome,kinase,protease	false	false
+PLAU	WX-UK1	n/a	TdgClinicalTrial	cell surface,druggable genome,kinase,protease	false	false
+PLAU	WX-UK1	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,kinase,protease	false	false
+PLAU	UPAMOSTAT	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-FLUORO-2-[2-HYDROXY-3-(2-METHYL-CYCLOHEXYLOXY)-PHENYL]-1H-INDOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-[N-(4-ETHYL-1,2,3,4-TETRAHYDRO-6-ISOQUINOLINYL)CARBAMYL]-2-NAPHTHALENECARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	8-(PYRIMIDIN-2-YLAMINO)NAPHTHALENE-2-CARBOXIMIDAMIDE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	[2,4,6-TRIISOPROPYL-PHENYLSULFONYL-L-[3-AMIDINO-PHENYLALANINE]]-PIPERAZINE-N'-BETA-ALANINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	1-[4-(2-OXO-2-PHENYLETHYL)PHENYL]GUANIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	N-(1-ADAMANTYL)-N'-(4-GUANIDINOBENZYL)UREA	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	AMILORIDE	inhibitor	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-[(Z)-AMINO(IMINO)METHYL]-N-[3-(CYCLOPENTYLOXY)PHENYL]-2-NAPHTHAMIDE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-CHLORO-2-(2-HYDROXY-BIPHENYL-3-YL)-1H-INDOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	TRANS-6-(2-PHENYLCYCLOPROPYL)-NAPHTHALENE-2-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	BENZAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	2-(2-HYDROXY-5-METHOXY-PHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	7-METHOXY-8-[1-(METHYLSULFONYL)-1H-PYRAZOL-4-YL]NAPHTHALENE-2-CARBOXIMIDAMIDE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	THIENO[2,3-B]PYRIDINE-2-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	2-(2-HYDROXY-BIPHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-FLUORO-2-(2-HYDROXY-3-ISOBUTOXY-PHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	4-IODOBENZO[B]THIOPHENE-2-CARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	6-[N-(1-ISOPROPYL-1,2,3,4-TETRAHYDRO-7-ISOQUINOLINYL)CARBAMYL]-2-NAPHTHALENECARBOXAMIDINE	n/a	DrugBank	cell surface,druggable genome,kinase,protease	false	false
+PLAU	WX-671	n/a	TdgClinicalTrial	cell surface,druggable genome,kinase,protease	false	false
+PLAU	WX-UK1	n/a	TdgClinicalTrial	cell surface,druggable genome,kinase,protease	false	false
+PLAU	WX-UK1	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,kinase,protease	false	false
+PLAU	UPAMOSTAT	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,kinase,protease	false	false
+SERPINE1	TROGLITAZONE	antagonist	DrugBank	druggable genome,protease inhibitor	false	false
+CD47	ABT-510	n/a	TdgClinicalTrial		false	false
+ANXA5	1,4-DIDEOXY-5-DEHYDRO-O2-SULFO-GLUCURONIC ACID	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+ANXA5	1,4-DIDEOXY-O2-SULFO-GLUCURONIC ACID	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+ANXA5	L-ALPHA-GLYCEROPHOSPHORYLSERINE	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+WARS	L-TRYPTOPHAN	inhibitor	DrugBank	druggable genome	false	false
+WARS	TRYPTOPHANYL-5'AMP	n/a	DrugBank	druggable genome	false	false
+WARS	L-TRYPTOPHANAMIDE	n/a	DrugBank	druggable genome	false	false
+PDE4B	4-[8-(3-NITROPHENYL)-1,7-NAPHTHYRIDIN-6-YL]BENZOIC ACID	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	S,S-(2-HYDROXYETHYL)THIOCYSTEINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	DYPHYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	1-(2-CHLOROPHENYL)-3,5-DIMETHYL-1H-PYRAZOLE-4-CARBOXYLIC ACID ETHYL ESTER	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	KETOTIFEN	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	ILOPROST	inducer	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	THEOPHYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	8-BROMO-ADENOSINE-5'-MONOPHOSPHATE	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	CAFFEINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	PAPAVERINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	ENPROFYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	PENTOXIFYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	PICLAMILAST	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	THEOBROMINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	ROFLUMILAST	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	IBUDILAST	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	AMRINONE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	FILAMINAST	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	APREMILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	THEOPHYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	ENPROFYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	CAFFEINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	RESVERATROL	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	DYPHYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	IBUDILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	OGLEMILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	RESVERATROL	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	ROFLUMILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	PENTOXIFYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	ETAZOLATE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	AMRINONE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	PAPAVERINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	AMRINONE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	DYPHYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	ENPROFYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	THEOPHYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	PENTOXIFYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	PAPAVERINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	CAFFEINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	ROFLUMILAST	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	IBUDILAST	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	ROLIPRAM	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	RS-25344	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	4-[8-(3-NITROPHENYL)-1,7-NAPHTHYRIDIN-6-YL]BENZOIC ACID	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	S,S-(2-HYDROXYETHYL)THIOCYSTEINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	DYPHYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	1-(2-CHLOROPHENYL)-3,5-DIMETHYL-1H-PYRAZOLE-4-CARBOXYLIC ACID ETHYL ESTER	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	KETOTIFEN	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	ILOPROST	inducer	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	THEOPHYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	8-BROMO-ADENOSINE-5'-MONOPHOSPHATE	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	CAFFEINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	PAPAVERINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	ENPROFYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	PENTOXIFYLLINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	PICLAMILAST	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	THEOBROMINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	ROFLUMILAST	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	IBUDILAST	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	AMRINONE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	FILAMINAST	n/a	DrugBank	drug resistance,druggable genome	false	false
+PDE4B	APREMILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	THEOPHYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	ENPROFYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	CAFFEINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	RESVERATROL	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	DYPHYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	IBUDILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	OGLEMILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	RESVERATROL	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	ROFLUMILAST	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	PENTOXIFYLLINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	ETAZOLATE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	AMRINONE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	PAPAVERINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+PDE4B	AMRINONE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	DYPHYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	ENPROFYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	THEOPHYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	PENTOXIFYLLINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	PAPAVERINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	CAFFEINE	n/a	TEND	drug resistance,druggable genome	false	false
+PDE4B	ROFLUMILAST	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	IBUDILAST	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	ROLIPRAM	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+PDE4B	RS-25344	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+MMP1	BMS 275291	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	MARIMASTAT	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	BATIMASTAT	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	PRINOMASTAT	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	DOXYCYCLINE HYDRATE	inhibitor	ChEMBL	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	DOXYCYCLINE CALCIUM	inhibitor	ChEMBL	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	DOXYCYCLINE HYCLATE	inhibitor	ChEMBL	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	MARIMASTAT	inhibitor	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	METHYLAMINO-PHENYLALANYL-LEUCYL-HYDROXAMIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	N-HYDROXY-2-[4-(4-PHENOXY-BENZENESULFONYL)-TETRAHYDRO-PYRAN-4-YL]-ACETAMIDE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	CIPEMASTAT	n/a	GuideToPharmacologyInteractions	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	BMS 275291	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	MARIMASTAT	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	BATIMASTAT	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	PRINOMASTAT	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	DOXYCYCLINE HYDRATE	inhibitor	ChEMBL	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	DOXYCYCLINE CALCIUM	inhibitor	ChEMBL	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	DOXYCYCLINE HYCLATE	inhibitor	ChEMBL	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	MARIMASTAT	inhibitor	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	METHYLAMINO-PHENYLALANYL-LEUCYL-HYDROXAMIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	N-HYDROXY-2-[4-(4-PHENOXY-BENZENESULFONYL)-TETRAHYDRO-PYRAN-4-YL]-ACETAMIDE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP1	CIPEMASTAT	n/a	GuideToPharmacologyInteractions	druggable genome,neutral zinc metallopeptidase,protease	false	false
+IL1B	MINOCYCLINE	modulator	DrugBank	drug resistance,tumor suppressor	false	false
+IL1B	VX-765	n/a	DrugBank	drug resistance,tumor suppressor	false	false
+IL1B	GALLIUM NITRATE	antagonist	DrugBank	drug resistance,tumor suppressor	false	false
+IL1B	VX-702	n/a	DrugBank	drug resistance,tumor suppressor	false	false
+IL1B	CLODRONATE	n/a	PharmGKB	drug resistance,tumor suppressor	false	false
+IL1B	GALLIUM NITRATE	inhibitor	TTD	drug resistance,tumor suppressor	false	false
+IL1B	IBUDILAST	inhibitor	TTD	drug resistance,tumor suppressor	false	false
+AKR1B10	TOLRESTAT	n/a	DrugBank	druggable genome	false	false
+AKR1B10	2'-MONOPHOSPHOADENOSINE 5'-DIPHOSPHORIBOSE	n/a	DrugBank	druggable genome	false	false
+IDO1	L-TRYPTOPHAN	binder	TTD		false	false
+SLC2A3	GLUFOSFAMIDE	n/a	TdgClinicalTrial	druggable genome,transporter	false	false
+SLC2A3	GLUFOSFAMIDE	n/a	TdgClinicalTrial	druggable genome,transporter	false	false
+STS	2-AMINO-3-OXO-4-SULFO-BUTYRIC ACID	n/a	DrugBank	druggable genome	false	false
+ANXA1	HYDROCORTAMATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	PREDNICARBATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	TRIAMCINOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	PREDNISONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	true	false
+ANXA1	DESOXIMETASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	RIMEXOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	CLOCORTOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	FLUMETHASONE PIVALATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	AMCINONIDE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	METHYLPREDNISOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	BECLOMETHASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	DESONIDE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	DEXAMETHASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	BETAMETHASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	CLOBETASOL	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	MOMETASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	LOTEPREDNOL ETABONATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	ALCLOMETASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	DIFLORASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	PREDNISOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	HALOBETASOL PROPIONATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	HYDROCORTISONE	agonist	DrugBank	cell surface,drug resistance,tumor suppressor	true	false
+ANXA1	DEXAMETHASONE	agonist	DrugBank	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	AMCINONIDE	agonist	DrugBank	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	HYDROCORTAMATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	PREDNICARBATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	TRIAMCINOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	PREDNISONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	true	false
+ANXA1	DESOXIMETASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	RIMEXOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	CLOCORTOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	FLUMETHASONE PIVALATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	AMCINONIDE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	METHYLPREDNISOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	BECLOMETHASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	DESONIDE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	DEXAMETHASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	BETAMETHASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	CLOBETASOL	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	MOMETASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	LOTEPREDNOL ETABONATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	ALCLOMETASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	DIFLORASONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	PREDNISOLONE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	HALOBETASOL PROPIONATE	n/a	TEND	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	HYDROCORTISONE	agonist	DrugBank	cell surface,drug resistance,tumor suppressor	true	false
+ANXA1	DEXAMETHASONE	agonist	DrugBank	cell surface,drug resistance,tumor suppressor	false	false
+ANXA1	AMCINONIDE	agonist	DrugBank	cell surface,drug resistance,tumor suppressor	false	false
+LYN	BOSUTINIB	n/a	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	NINTEDANIB	inhibitor	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	PONATINIB	inhibitor	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	MASITINIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	SU6656	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	BOSUTINIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	MASITINIB	inhibitor	MyCancerGenomeClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	BOSUTINIB	inhibitor	ChEMBL	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	BOSUTINIB	n/a	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	NINTEDANIB	inhibitor	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	PONATINIB	inhibitor	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	MASITINIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	SU6656	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	BOSUTINIB	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	MASITINIB	inhibitor	MyCancerGenomeClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+LYN	BOSUTINIB	inhibitor	ChEMBL	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+MTHFD2	TETRAHYDROFOLIC ACID	cofactor	DrugBank		false	false
+ADM	PAROXETINE	n/a	PharmGKB	hormone activity	false	false
+ACOX1	(3R)-3-HYDROXYDODECANOIC ACID	n/a	DrugBank		false	false
+TIMP1	PACLITAXEL	n/a	CIViC	druggable genome,growth factor,protease inhibitor	false	false
+NAMPT	N-[4-(1-BENZOYLPIPERIDIN-4-YL)BUTYL]-3-PYRIDIN-3-YLPROPANAMIDE	n/a	DrugBank		false	false
+PLA2G7	DARAPLADIB	n/a	GuideToPharmacologyInteractions	lipase,phospholipase	false	false
+PLA2G7	RILAPLADIB	n/a	GuideToPharmacologyInteractions	lipase,phospholipase	false	false
+PLA2G7	DARAPLADIB	inhibitor	TTD	lipase,phospholipase	false	false
+PLA2G7	RILAPLADIB	inhibitor	TTD	lipase,phospholipase	false	false
+PLA2G7	(1R)-1,2,2-TRIMETHYLPROPYL (R)-METHYLPHOSPHINATE	n/a	DrugBank	lipase,phospholipase	false	false
+PLA2G7	DARAPLADIB	n/a	TdgClinicalTrial	lipase,phospholipase	false	false
+IRS1	[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID	n/a	DrugBank	clinically actionable	false	false
+HCAR3	MEPENZOLATE	n/a	TEND	druggable genome,g protein coupled receptor	false	false
+HCAR3	MEPENZOLATE	n/a	TdgClinicalTrial	druggable genome,g protein coupled receptor	false	false
+HCAR3	ACIFRAN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+HCAR3	2-HYDROXYOCTANOIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+HCAR3	NICOTINIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+HCAR3	D-TRYPTOPHAN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+HCAR3	3-HYDROXYOCTANOIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+HCAR3	D-PHENYLALANINE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+HCAR3	D-KYNURENINE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+ACSL4	ROSIGLITAZONE	inhibitor	DrugBank		false	false
+ACSL4	TROGLITAZONE	inhibitor	DrugBank		false	false
+HCK	QUERCETIN	n/a	DrugBank	druggable genome,kinase,tyrosine kinase	false	false
+HCK	BOSUTINIB	inhibitor	DrugBank	druggable genome,kinase,tyrosine kinase	false	false
+HCK	BOSUTINIB	inhibitor	ChEMBL	druggable genome,kinase,tyrosine kinase	false	false
+HCK	MASITINIB	n/a	TdgClinicalTrial	druggable genome,kinase,tyrosine kinase	false	false
+HCK	QUERCETIN	n/a	DrugBank	druggable genome,kinase,tyrosine kinase	false	false
+HCK	BOSUTINIB	inhibitor	DrugBank	druggable genome,kinase,tyrosine kinase	false	false
+HCK	BOSUTINIB	inhibitor	ChEMBL	druggable genome,kinase,tyrosine kinase	false	false
+HCK	MASITINIB	n/a	TdgClinicalTrial	druggable genome,kinase,tyrosine kinase	false	false
+CXCR2	SB 225002	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SB-656933	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SB-656933	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SCH-527123	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SCH-527123	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SB 225002	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SB-656933	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SB-656933	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SCH-527123	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR2	SCH-527123	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+GCH1	GUANINE	inhibitor	DrugBank		false	false
+MMP3	MARIMASTAT	n/a	TdgClinicalTrial	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	N-HYDROXY 1N(4-METHOXYPHENYL)SULFONYL-4-(Z,E-N-METHOXYIMINO)PYRROLIDINE-2R-CARBOXAMIDE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	2-(2-{2-[(BIPHENYL-4-YLMETHYL)-AMINO]-3-MERCAPTO-PENTANOYLAMINO}-ACETYLAMINO)-3-METHYL-BUTYRIC ACID METHYL ESTER	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	[4-(4-PHENYL-PIPERIDIN-1-YL)-BENZENESULFONYLAMINO]-ACETIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	3-(1H-INDOL-3-YL)-2-[4-(4-PHENYL-PIPERIDIN-1-YL)-BENZENESULFONYLAMINO]-PROPIONIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	R-2-{[4'-METHOXY-(1,1'-BIPHENYL)-4-YL]-SULFONYL}-AMINO-6-METHOXY-HEX-4-YNOIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	HYDROXYAMINOVALINE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	A DISUBSTITUTED SUCCINYL CAPROLACTAM HYDROXYMATE MMP3INHIBITOR	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	3-METHYLPYRIDINE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	[2-(5-MERCAPTO-[1,3,4]THIADIAZOL-2-YLCARBAMOYL)-1-PHENYL-ETHYL]-CARBAMIC ACID BENZYL ESTER	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	1-METHYLOXY-4-SULFONE-BENZENE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	MARIMASTAT	antagonist	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	PG-116800	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	UK-356618	n/a	GuideToPharmacologyInteractions	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	MARIMASTAT	n/a	TEND	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	MARIMASTAT	n/a	TdgClinicalTrial	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	N-HYDROXY 1N(4-METHOXYPHENYL)SULFONYL-4-(Z,E-N-METHOXYIMINO)PYRROLIDINE-2R-CARBOXAMIDE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	2-(2-{2-[(BIPHENYL-4-YLMETHYL)-AMINO]-3-MERCAPTO-PENTANOYLAMINO}-ACETYLAMINO)-3-METHYL-BUTYRIC ACID METHYL ESTER	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	[4-(4-PHENYL-PIPERIDIN-1-YL)-BENZENESULFONYLAMINO]-ACETIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	3-(1H-INDOL-3-YL)-2-[4-(4-PHENYL-PIPERIDIN-1-YL)-BENZENESULFONYLAMINO]-PROPIONIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	R-2-{[4'-METHOXY-(1,1'-BIPHENYL)-4-YL]-SULFONYL}-AMINO-6-METHOXY-HEX-4-YNOIC ACID	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	HYDROXYAMINOVALINE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	A DISUBSTITUTED SUCCINYL CAPROLACTAM HYDROXYMATE MMP3INHIBITOR	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	3-METHYLPYRIDINE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	[2-(5-MERCAPTO-[1,3,4]THIADIAZOL-2-YLCARBAMOYL)-1-PHENYL-ETHYL]-CARBAMIC ACID BENZYL ESTER	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	1-METHYLOXY-4-SULFONE-BENZENE	n/a	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	MARIMASTAT	antagonist	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	PG-116800	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	UK-356618	n/a	GuideToPharmacologyInteractions	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP3	MARIMASTAT	n/a	TEND	druggable genome,neutral zinc metallopeptidase,protease	false	false
+CD55	CHLORAMPHENICOL	other/unknown	DrugBank	cell surface	false	false
+CCL2	RS-504393	inhibitor	TTD	drug resistance,kinase	false	false
+CCL2	MIMOSINE	inhibitor	DrugBank	drug resistance,kinase	false	false
+CCL2	DANAZOL	inhibitor	DrugBank	drug resistance,kinase	false	false
+ICAM1	ALICAFORSEN	n/a	TdgClinicalTrial	cell surface,drug resistance,external side of plasma membrane	false	false
+ICAM1	ALICAFORSEN	antisense	TTD	cell surface,drug resistance,external side of plasma membrane	false	false
+ALCAM	5-FLUOROURIDINE	n/a	CIViC	cell surface,external side of plasma membrane	false	false
+HK2	4-AMINOPYRIDINE	blocker	TTD	kinase	false	false
+HK2	AZIMILIDE	blocker	TTD	kinase	false	false
+HK2	DRONEDARONE	blocker	TTD	kinase	false	false
+LDLR	PORFIMER	other/unknown	DrugBank	cell surface,external side of plasma membrane	false	false
+LDLR	ATENOLOL	n/a	PharmGKB	cell surface,external side of plasma membrane	false	false
+ATP2C1	SEVOFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ENFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ISOFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	HALOTHANE	other/unknown	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	METHOXYFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	DESFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	CALCIUM	agonist	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	SEVOFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ENFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	DESFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ISOFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ISOFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	SEVOFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	DESFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ENFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	SEVOFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ENFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ISOFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	HALOTHANE	other/unknown	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	METHOXYFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	DESFLURANE	inhibitor	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	CALCIUM	agonist	DrugBank	abc transporter,druggable genome,transporter	false	false
+ATP2C1	SEVOFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ENFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	DESFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ISOFLURANE	n/a	TEND	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ISOFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	SEVOFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	DESFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2C1	ENFLURANE	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+CFB	4-GUANIDINOBENZOIC ACID	n/a	DrugBank	druggable genome,protease	false	false
+CFB	4-GUANIDINOBENZOIC ACID	n/a	DrugBank	druggable genome,protease	false	false
+NOS2	AMINOGUANIDINE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+NOS2	2-AMINO-4-METHYLPYRIDINE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+NOS2	TRIFLUSAL	agonist	DrugBank	drug resistance,druggable genome	false	false
+NOS2	S-ETHYLISOTHIOUREA	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	7,8-DIHYDRO-L-BIOPTERIN	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	1-[4-(AMINOMETHYL)BENZOYL]-5'-FLUORO-1'H-SPIRO[PIPERIDINE-4,2'-QUINAZOLIN]-4'-AMINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	L-CITRULLINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	(3R)-3-[(1,2,3,4-TETRAHYDROISOQUINOLIN-7-YLOXY)METHYL]-2,3-DIHYDROTHIENO[2,3-F][1,4]OXAZEPIN-5-AMINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	DEXAMETHASONE	negative modulator	DrugBank	drug resistance,druggable genome	false	false
+NOS2	7,8-DIHYDROBIOPTERIN	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	N,N-DIMETHYLARGININE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	4R-FLUORO-N6-ETHANIMIDOYL-L-LYSINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	ETHYL 4-[(4-CHLOROPYRIDIN-2-YL)AMINO]PIPERIDINE-1-CARBOXYLATE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	THIOCOUMARIN	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	N-(3-(AMINOMETHYL)BENZYL)ACETAMIDINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	L-ARGININE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	ETHYL 4-[(4-METHYLPYRIDIN-2-YL)AMINO]PIPERIDINE-1-CARBOXYLATE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	7-NITROINDAZOLE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	L-THIOCITRULLINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	MICONAZOLE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+NOS2	5-(4'-AMINO-1'-ETHYL-5',8'-DIFLUORO-1'H-SPIRO[PIPERIDINE-4,2'-QUINAZOLINE]-1-YLCARBONYL)PICOLINONITRILE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	AMINOGUANIDINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+NOS2	N-[2-(6-AMINO-4-METHYLPYRIDIN-2-YL)ETHYL]-4-CYANOBENZAMIDE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	N-[2-(4-AMINO-5,8-DIFLUORO-1,2-DIHYDROQUINAZOLIN-2-YL)ETHYL]-3-FURAMIDE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	5-NITROINDAZOLE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	(2S)-2-METHYL-2,3-DIHYDROTHIENO[2,3-F][1,4]OXAZEPIN-5-AMINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	N-OMEGA-HYDROXY-L-ARGININE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	N-OMEGA-PROPYL-L-ARGININE	n/a	DrugBank	drug resistance,druggable genome	false	false
+NOS2	DOXYCYCLINE	inhibitor	MyCancerGenomeClinicalTrial	drug resistance,druggable genome	false	false
+PRKAR1A	SP-ADENOSINE-3',5'-CYCLIC-MONOPHOSPHOROTHIOATE	n/a	DrugBank	clinically actionable,kinase,serine threonine kinase,tumor suppressor	false	false
+PRKAR1A	CYCLIC ADENOSINE MONOPHOSPHATE	n/a	DrugBank	clinically actionable,kinase,serine threonine kinase,tumor suppressor	false	false
+PRKAR1A	SP-ADENOSINE-3',5'-CYCLIC-MONOPHOSPHOROTHIOATE	n/a	DrugBank	clinically actionable,kinase,serine threonine kinase,tumor suppressor	false	false
+PRKAR1A	CYCLIC ADENOSINE MONOPHOSPHATE	n/a	DrugBank	clinically actionable,kinase,serine threonine kinase,tumor suppressor	false	false
+CTSK	BALICATIB	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CTSK	RELACATIB	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CTSK	ODANACATIB	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CTSK	N2-({[(4-BROMOPHENYL)METHYL]OXY}CARBONYL)-N1-[(1S)-1-FORMYLPENTYL]-L-LEUCINAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	N-(2-AMINOETHYL)-N~2~-{(1S)-1-[4'-(AMINOSULFONYL)BIPHENYL-4-YL]-2,2,2-TRIFLUOROETHYL}-L-LEUCINAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1,5-BIS(N-BENZYLOXYCARBONYL-L-LEUCINYL)CARBOHYDRAZIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	TERT-BUTYL 2-CYANO-2-METHYLHYDRAZINECARBOXYLATE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1-[N[(PHENYLMETHOXY)CARBONYL]-L-LEUCYL-4-[[N/N-[(PHENYLMETHOXY)CARBONYL]-/NL-LEUCYL]AMINO]-3-PYRROLIDINONE/N	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	3-AMINO-5-PHENYLPENTANE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	BENZOFURAN-2-CARBOXYLIC ACID {(S)-3-METHYL-1-[3-OXO-1-(PYRIDIN-2-YLSULFONYL)AZEPAN-4-YLCARBAMOYL]BUTYL}AMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	(1R,2R)-N-(2-AMINOETHYL)-2-{[(4-METHOXYPHENYL)SULFONYL]METHYL}CYCLOHEXANECARBOXAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1-[2-(3-BIPHENYL)-4-METHYLVALERYL)]AMINO-3-(2-PYRIDYLSULFONYL)AMINO-2-PROPANONE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1-{7-CYCLOHEXYL-6-[4-(4-METHYLPIPERAZIN-1-YL)BENZYL]-7H-PYRROLO[2,3-D]PYRIMIDIN-2-YL}METHANAMINE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	N2-[(BENZYLOXY)CARBONYL]-N1-[(3S)-1-CYANOPYRROLIDIN-3-YL]-L-LEUCINAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	RELACATIB	n/a	TdgClinicalTrial	druggable genome,protease	false	false
+CTSK	ODANACATIB	n/a	TdgClinicalTrial	druggable genome,protease	false	false
+CTSK	ODANACATIB	inhibitor	TALC	druggable genome,protease	false	false
+CTSK	BALICATIB	inhibitor	TALC	druggable genome,protease	false	false
+CTSK	BALICATIB	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CTSK	RELACATIB	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CTSK	ODANACATIB	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CTSK	N2-({[(4-BROMOPHENYL)METHYL]OXY}CARBONYL)-N1-[(1S)-1-FORMYLPENTYL]-L-LEUCINAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	N-(2-AMINOETHYL)-N~2~-{(1S)-1-[4'-(AMINOSULFONYL)BIPHENYL-4-YL]-2,2,2-TRIFLUOROETHYL}-L-LEUCINAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1,5-BIS(N-BENZYLOXYCARBONYL-L-LEUCINYL)CARBOHYDRAZIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	TERT-BUTYL 2-CYANO-2-METHYLHYDRAZINECARBOXYLATE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1-[N[(PHENYLMETHOXY)CARBONYL]-L-LEUCYL-4-[[N/N-[(PHENYLMETHOXY)CARBONYL]-/NL-LEUCYL]AMINO]-3-PYRROLIDINONE/N	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	3-AMINO-5-PHENYLPENTANE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	BENZOFURAN-2-CARBOXYLIC ACID {(S)-3-METHYL-1-[3-OXO-1-(PYRIDIN-2-YLSULFONYL)AZEPAN-4-YLCARBAMOYL]BUTYL}AMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	(1R,2R)-N-(2-AMINOETHYL)-2-{[(4-METHOXYPHENYL)SULFONYL]METHYL}CYCLOHEXANECARBOXAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1-[2-(3-BIPHENYL)-4-METHYLVALERYL)]AMINO-3-(2-PYRIDYLSULFONYL)AMINO-2-PROPANONE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	1-{7-CYCLOHEXYL-6-[4-(4-METHYLPIPERAZIN-1-YL)BENZYL]-7H-PYRROLO[2,3-D]PYRIMIDIN-2-YL}METHANAMINE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	N2-[(BENZYLOXY)CARBONYL]-N1-[(3S)-1-CYANOPYRROLIDIN-3-YL]-L-LEUCINAMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CTSK	RELACATIB	n/a	TdgClinicalTrial	druggable genome,protease	false	false
+CTSK	ODANACATIB	n/a	TdgClinicalTrial	druggable genome,protease	false	false
+CTSK	ODANACATIB	inhibitor	TALC	druggable genome,protease	false	false
+CTSK	BALICATIB	inhibitor	TALC	druggable genome,protease	false	false
+ADH1C	(R)-N-(1-METHYL-HEXYL)-FORMAMIDE	n/a	DrugBank	druggable genome	false	false
+ADH1C	5-BETA-D-RIBOFURANOSYLNICOTINAMIDE ADENINE DINUCLEOTIDE	n/a	DrugBank	druggable genome	false	false
+ADH1C	N-1-METHYLHEPTYLFORMAMIDE	n/a	DrugBank	druggable genome	false	false
+ADH1C	2,3,4,5,6-PENTAFLUOROBENZYL ALCOHOL	n/a	DrugBank	druggable genome	false	false
+ADH1C	N-FORMYLPIPERIDINE	n/a	DrugBank	druggable genome	false	false
+ADH1C	CHOLIC ACID	n/a	DrugBank	druggable genome	false	false
+ADH1C	4-IODOPYRAZOLE	n/a	DrugBank	druggable genome	false	false
+ADH1C	2-ETHOXYETHANOL	n/a	DrugBank	druggable genome	false	false
+ADH1C	3-BUTYLTHIOLANE 1-OXIDE	n/a	DrugBank	druggable genome	false	false
+ADH1C	PYRAZOLE	n/a	DrugBank	druggable genome	false	false
+ADH1C	CPAD	n/a	DrugBank	druggable genome	false	false
+ADH1C	2,3-DIFLUOROBENZYL ALCOHOL	n/a	DrugBank	druggable genome	false	false
+ADH1C	ETHANOL	n/a	PharmGKB	druggable genome	false	false
+SERPINB5	S,S-(2-HYDROXYETHYL)THIOCYSTEINE	n/a	DrugBank	druggable genome,protease inhibitor	false	false
+SERPINB5	S,S-(2-HYDROXYETHYL)THIOCYSTEINE	n/a	DrugBank	druggable genome,protease inhibitor	false	false
+TLR2	S-(DIMETHYLARSENIC)CYSTEINE	n/a	DrugBank	cell surface,drug resistance,external side of plasma membrane	false	false
+TLR2	PEPTIDOGLYCAN	n/a	GuideToPharmacologyInteractions	cell surface,drug resistance,external side of plasma membrane	false	false
+TLR2	DIAPEP277	n/a	TdgClinicalTrial	cell surface,drug resistance,external side of plasma membrane	false	false
+HIF1A	N-[(1-CHLORO-4-HYDROXYISOQUINOLIN-3-YL)CARBONYL]GLYCINE	n/a	DrugBank	transcription factor binding,transcription factor complex	false	false
+HIF1A	2-METHOXYESTRADIOL	n/a	DrugBank	transcription factor binding,transcription factor complex	false	false
+HIF1A	CARVEDILOL	modulator	DrugBank	transcription factor binding,transcription factor complex	false	false
+HIF1A	PX-478	inhibitor	TALC	transcription factor binding,transcription factor complex	false	false
+HIF1A	NOSCAPINE	n/a	TdgClinicalTrial	transcription factor binding,transcription factor complex	false	false
+HIF1A	ENMD-1198	n/a	TdgClinicalTrial	transcription factor binding,transcription factor complex	false	false
+HIF1A	PX-478	n/a	TdgClinicalTrial	transcription factor binding,transcription factor complex	false	false
+HIF1A	NITROGLYCERIN	inhibitor	MyCancerGenomeClinicalTrial	transcription factor binding,transcription factor complex	false	false
+MMP10	MARIMASTAT	antagonist	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP10	MARIMASTAT	antagonist	DrugBank	druggable genome,neutral zinc metallopeptidase,protease	false	false
+SLC12A2	PIRETANIDE	n/a	GuideToPharmacologyInteractions	druggable genome,transporter	false	false
+SLC12A2	FUROSEMIDE	n/a	GuideToPharmacologyInteractions	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	n/a	GuideToPharmacologyInteractions	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	n/a	TdgClinicalTrial	druggable genome,transporter	false	false
+SLC12A2	QUINETHAZONE	inhibitor	DrugBank	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	inhibitor	DrugBank	druggable genome,transporter	false	false
+SLC12A2	POTASSIUM CHLORIDE	n/a	DrugBank	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	n/a	TEND	druggable genome,transporter	false	false
+SLC12A2	ALDOSTERONE	blocker	TTD	druggable genome,transporter	false	false
+SLC12A2	PIRETANIDE	n/a	GuideToPharmacologyInteractions	druggable genome,transporter	false	false
+SLC12A2	FUROSEMIDE	n/a	GuideToPharmacologyInteractions	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	n/a	GuideToPharmacologyInteractions	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	n/a	TdgClinicalTrial	druggable genome,transporter	false	false
+SLC12A2	QUINETHAZONE	inhibitor	DrugBank	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	inhibitor	DrugBank	druggable genome,transporter	false	false
+SLC12A2	POTASSIUM CHLORIDE	n/a	DrugBank	druggable genome,transporter	false	false
+SLC12A2	BUMETANIDE	n/a	TEND	druggable genome,transporter	false	false
+SLC12A2	ALDOSTERONE	blocker	TTD	druggable genome,transporter	false	false
+MAP3K8	MEK INHIBITOR II	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+MAP3K8	TPL2 KINASE INHIBITOR	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+MAP3K8	MEK INHIBITOR II	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+MAP3K8	TPL2 KINASE INHIBITOR	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PPARG	(5R,6E,8Z,11Z,14Z,17Z)-5-HYDROXYICOSA-6,8,11,14,17-PENTAENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	SULFASALAZINE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	INDOMETHACIN	activator	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ALEGLITAZAR	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	REPAGLINIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BALSALAZIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	DIFLUORO(5-{2-[(5-OCTYL-1H-PYRROL-2-YL-KAPPAN)METHYLIDENE]-2H-PYRROL-5-YL-KAPPAN}PENTANOATO)BORON	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NATEGLINIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	IBUPROFEN	activator	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-HYDROXYDOCOSA-5,7,10,13,16,19-HEXAENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GLIPIZIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TELMISARTAN	partial agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	T131	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BEZAFIBRATE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(2S)-2-(4-CHLOROPHENOXY)-3-PHENYLPROPANOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(8E,10S,12Z)-10-HYDROXY-6-OXOOCTADECA-8,12-DIENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(8R,9Z,12Z)-8-HYDROXY-6-OXOOCTADECA-9,12-DIENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	MITIGLINIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	SB-219993	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	INDOMETHACIN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	LY-465608	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW1929	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	DICLOFENAC	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	REGLITAZAR	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	LY-510929	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	LINOLEIC ACID	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NTZDPA	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	CIGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	FMOC-L-LEUCINE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW7845	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	L-796449	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PAT5A	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	FARGLITAZAR	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	RAGAGLITAZAR	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	L-764406	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	AD-5061	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW0072	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	SB-219994	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW9662	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BARDOXOLONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NETOGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NETOGLITAZONE	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GENISTEIN	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE & SIMVASTATIN	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	OLANZAPINE	n/a	PharmGKB	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ZOLEDRONATE	n/a	PharmGKB	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	MURAGLITAZAR	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ALEGLITAZAR	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	METAGLIDASEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NAVEGLITAZAR	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BALSALAZIDE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	SULFASALAZINE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	TREPROSTINIL	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TEND	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TREPROSTINIL	n/a	TEND	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	TEND	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	OLSALAZINE SODIUM	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE HYDROCHLORIDE	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BALSALAZIDE DISODIUM	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE MALEATE	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	EFATUTAZONE	agonist	TALC	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(5R,6E,8Z,11Z,14Z,17Z)-5-HYDROXYICOSA-6,8,11,14,17-PENTAENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	SULFASALAZINE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	INDOMETHACIN	activator	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ALEGLITAZAR	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	REPAGLINIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BALSALAZIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	DIFLUORO(5-{2-[(5-OCTYL-1H-PYRROL-2-YL-KAPPAN)METHYLIDENE]-2H-PYRROL-5-YL-KAPPAN}PENTANOATO)BORON	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NATEGLINIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	IBUPROFEN	activator	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-HYDROXYDOCOSA-5,7,10,13,16,19-HEXAENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GLIPIZIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TELMISARTAN	partial agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	T131	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BEZAFIBRATE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(2S)-2-(4-CHLOROPHENOXY)-3-PHENYLPROPANOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(8E,10S,12Z)-10-HYDROXY-6-OXOOCTADECA-8,12-DIENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	(8R,9Z,12Z)-8-HYDROXY-6-OXOOCTADECA-9,12-DIENOIC ACID	n/a	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	MITIGLINIDE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	agonist	DrugBank	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	SB-219993	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	INDOMETHACIN	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	LY-465608	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW1929	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	DICLOFENAC	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	REGLITAZAR	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	LY-510929	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	LINOLEIC ACID	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NTZDPA	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	CIGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	FMOC-L-LEUCINE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW7845	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	L-796449	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PAT5A	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	FARGLITAZAR	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	RAGAGLITAZAR	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	L-764406	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	AD-5061	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW0072	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	SB-219994	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GW9662	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BARDOXOLONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NETOGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NETOGLITAZONE	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	GENISTEIN	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE & SIMVASTATIN	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	agonist	TTD	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	OLANZAPINE	n/a	PharmGKB	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ZOLEDRONATE	n/a	PharmGKB	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	MURAGLITAZAR	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ALEGLITAZAR	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	METAGLIDASEN	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	NAVEGLITAZAR	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BALSALAZIDE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	SULFASALAZINE	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	true
+PPARG	TREPROSTINIL	n/a	TdgClinicalTrial	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE	n/a	TEND	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TREPROSTINIL	n/a	TEND	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE	n/a	TEND	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	OLSALAZINE SODIUM	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	PIOGLITAZONE HYDROCHLORIDE	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	BALSALAZIDE DISODIUM	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	ROSIGLITAZONE MALEATE	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	TROGLITAZONE	agonist	ChEMBL	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PPARG	EFATUTAZONE	agonist	TALC	drug resistance,druggable genome,g protein coupled receptor,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+SULT1A1	ADENOSINE-3'-5'-DIPHOSPHATE	n/a	DrugBank		false	false
+SULT1A1	ACETAMINOPHEN	n/a	PharmGKB		false	false
+AQP9	PHLORETIN	n/a	GuideToPharmacologyInteractions	transporter	false	false
+AQP9	PHLORETIN	n/a	GuideToPharmacologyInteractions	transporter	false	false
+XBP1	VALPROIC ACID	n/a	PharmGKB	drug resistance,transcription factor binding	false	false
+VCAM1	CARVEDILOL	inhibitor	DrugBank	cell surface,external side of plasma membrane	false	false
+VCAM1	ETHANOL	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+LCN2	2,3,-DIHYDROXYBENZOYLSERINE	n/a	DrugBank	drug resistance,transporter	false	false
+LCN2	CARBOXYMYCOBACTIN T	n/a	DrugBank	drug resistance,transporter	false	false
+LCN2	CARBOXYMYCOBACTIN S	n/a	DrugBank	drug resistance,transporter	false	false
+LCN2	2,3,-DIHYDROXYBENZOYLSERINE	n/a	DrugBank	drug resistance,transporter	false	false
+LCN2	CARBOXYMYCOBACTIN T	n/a	DrugBank	drug resistance,transporter	false	false
+LCN2	CARBOXYMYCOBACTIN S	n/a	DrugBank	drug resistance,transporter	false	false
+GPX2	GLUTATHIONE	cofactor	DrugBank	druggable genome	false	false
+CCND2	LY2835219	n/a	ClearityFoundationBiomarkers	clinically actionable,tumor suppressor	false	false
+CCND2	LEE011	n/a	ClearityFoundationBiomarkers	clinically actionable,tumor suppressor	false	false
+S100A11	PHOSPHONOTHREONINE	n/a	DrugBank		false	false
+ATR	VELIPARIB	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	RUCAPARIB	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	BMN673	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	OLAPARIB	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	VELIPARIB	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	RUCAPARIB	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	BMN673	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+ATR	OLAPARIB	n/a	ClearityFoundationBiomarkers	clinically actionable,dna repair,drug resistance,druggable genome,kinase,phosphatidylinositol 3 kinase,serine threonine kinase	false	false
+KCND3	FLUNARIZINE	blocker	TTD	druggable genome,ion channel,transporter	false	false
+KCND3	IMIPRAMINE	inhibitor	DrugBank	druggable genome,ion channel,transporter	false	false
+KCND3	AMITRIPTYLINE	inhibitor	DrugBank	druggable genome,ion channel,transporter	false	false
+KCND3	DISOPYRAMIDE	inhibitor	DrugBank	druggable genome,ion channel,transporter	false	false
+KCND3	FLUNARIZINE	blocker	TTD	druggable genome,ion channel,transporter	false	false
+KCND3	IMIPRAMINE	inhibitor	DrugBank	druggable genome,ion channel,transporter	false	false
+KCND3	AMITRIPTYLINE	inhibitor	DrugBank	druggable genome,ion channel,transporter	false	false
+KCND3	DISOPYRAMIDE	inhibitor	DrugBank	druggable genome,ion channel,transporter	false	false
+CXCL10	N-METHYLLEUCINE	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+CXCL10	N-METHYLLEUCINE	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+STAT3	RTA 402	inhibitor	TTD	drug resistance,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+STAT3	ATIPRIMOD	inhibitor	TTD	drug resistance,nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+PIM2	RUBOXISTAURIN	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PIM2	AZD1208	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PIM2	SGI-1776	n/a	TdgClinicalTrial	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PIM2	RUBOXISTAURIN	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PIM2	AZD1208	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PIM2	SGI-1776	n/a	TdgClinicalTrial	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+F3	2-(4-HYDROXY-5-PHENYL-1H-PYRAZOL-3-YL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+F3	[2'-HYDROXY-3'-(1H-PYRROLO[3,2-C]PYRIDIN-2-YL)-BIPHENYL-3-YLMETHYL]-UREA	n/a	DrugBank	cell surface,external side of plasma membrane	false	false
+LYZ	L-ASPARTIC ACID	n/a	DrugBank		false	false
+LYZ	DODECYL SULFATE	n/a	DrugBank		false	false
+LYZ	METHYLUMBELLIFERYL CHITOTRIOSE	n/a	DrugBank		false	false
+LYZ	3-AMINOSUCCINIMIDE	n/a	DrugBank		false	false
+LYZ	4-METHYLUMBELLIFERYL CHITOBIOSE	n/a	DrugBank		false	false
+LYZ	DI(N-ACETYL-D-GLUCOSAMINE)	n/a	DrugBank		false	false
+LYZ	CU-CYCLAM	n/a	DrugBank		false	false
+LYZ	UNDECA-3,7-DIENE-1,3,7,11-TETRACARBALDEHYDE	n/a	DrugBank		false	false
+PAICS	L-ASPARTIC ACID	n/a	DrugBank		false	false
+GJA1	FLUFENAMIC ACID	n/a	GuideToPharmacologyInteractions	transporter	false	false
+GJA1	CARBENOXOLONE	n/a	GuideToPharmacologyInteractions	transporter	false	false
+GJA1	CARVEDILOL	other/unknown	DrugBank	transporter	false	false
+ACSL1	ADENOSINE TRIPHOSPHATE	n/a	DrugBank	drug resistance	false	false
+CCR1	UCB35625	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,external side of plasma membrane,g protein coupled receptor,phospholipase	false	false
+CCR1	UCB35625	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,external side of plasma membrane,g protein coupled receptor,phospholipase	false	false
+ADH1A	4-IODOPYRAZOLE	n/a	DrugBank	drug metabolism,druggable genome	false	false
+ADH1A	ETHANOL	n/a	PharmGKB	drug metabolism,druggable genome	false	false
+LDHB	OXAMIC ACID	n/a	DrugBank		false	false
+ME1	2'-MONOPHOSPHOADENOSINE 5'-DIPHOSPHORIBOSE	n/a	DrugBank		false	false
+SLC16A1	PYRUVIC ACID	n/a	DrugBank	druggable genome,transporter	false	false
+SLC16A1	PYRUVIC ACID	n/a	DrugBank	druggable genome,transporter	false	false
+PSMD10	CARFILZOMIB	other/unknown	MyCancerGenome	transcription factor binding,tumor suppressor	false	false
+PSMD10	BORTEZOMIB	other/unknown	MyCancerGenome	transcription factor binding,tumor suppressor	false	false
+PSME4	CARFILZOMIB	other/unknown	MyCancerGenome	dna repair,tumor suppressor	false	false
+PSME4	BORTEZOMIB	other/unknown	MyCancerGenome	dna repair,tumor suppressor	false	false
+GARS	GLYCINE	n/a	DrugBank		false	false
+GPR183	25-HYDROXYCHOLESTEROL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+GPR183	27-HYDROXYCHOLESTEROL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+MAOA	PHENELZINE	n/a	TdgClinicalTrial	druggable genome	false	false
+MAOA	MOCLOBEMIDE	n/a	TdgClinicalTrial	druggable genome	false	false
+MAOA	ISOCARBOXAZID	n/a	TdgClinicalTrial	druggable genome	false	false
+MAOA	METHAMPHETAMINE	n/a	TdgClinicalTrial	druggable genome	false	false
+MAOA	CX157	n/a	TdgClinicalTrial	druggable genome	false	false
+MAOA	TRANYLCYPROMINE	n/a	TdgClinicalTrial	druggable genome	false	false
+MAOA	ISOCARBOXAZID	n/a	TEND	druggable genome	false	false
+MAOA	PHENELZINE	n/a	TEND	druggable genome	false	false
+MAOA	TRANYLCYPROMINE	n/a	TEND	druggable genome	false	false
+MAOA	MOCLOBEMIDE	n/a	TEND	druggable genome	false	false
+MAOA	PHENTERMINE	antagonist	DrugBank	druggable genome	false	false
+MAOA	ZONISAMIDE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	METHAMPHETAMINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	CX157	n/a	DrugBank	druggable genome	false	false
+MAOA	TRANYLCYPROMINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	MOCLOBEMIDE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	MINAPRINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	ISOCARBOXAZID	inhibitor	DrugBank	druggable genome	false	false
+MAOA	SELEGILINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	4-METHOXYAMPHETAMINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	NOMIFENSINE	n/a	DrugBank	druggable genome	false	false
+MAOA	PHENELZINE	antagonist	DrugBank	druggable genome	false	false
+MAOA	MMDA	inhibitor	DrugBank	druggable genome	false	false
+MAOA	ZIMELIDINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	NIALAMIDE	n/a	DrugBank	druggable genome	false	false
+MAOA	PARGYLINE	inhibitor	DrugBank	druggable genome	false	false
+MAOA	PROCAINE	n/a	DrugBank	druggable genome	false	false
+MAOA	SELEGILINE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+MAOA	PHENELZINE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+MAOA	MOCLOBEMIDE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+MAOA	PIRLINDOLE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+MAOA	CLORGILINE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+MAOA	BEFLOXATONE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+MAOA	TRANYLCYPROMINE	n/a	GuideToPharmacologyInteractions	druggable genome	false	false
+GLYAT	GLYCINE	n/a	DrugBank		false	false
+TNFRSF11B	ZOLEDRONATE	n/a	PharmGKB	drug resistance	false	false
+MMP7	MARIMASTAT	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	BATIMASTAT	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	BMS 275291	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	PRINOMASTAT	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	(1R)-N,6-DIHYDROXY-7-METHOXY-2-[(4-METHOXYPHENYL)SULFONYL]-1,2,3,4-TETRAHYDROISOQUINOLINE-1-CARBOXAMIDE	n/a	DrugBank	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	MARIMASTAT	antagonist	DrugBank	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	DOXYCYCLINE HYDRATE	inhibitor	ChEMBL	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	DOXYCYCLINE CALCIUM	inhibitor	ChEMBL	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	DOXYCYCLINE HYCLATE	inhibitor	ChEMBL	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	MARIMASTAT	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	BATIMASTAT	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	BMS 275291	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	PRINOMASTAT	inhibitor	TTD	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	(1R)-N,6-DIHYDROXY-7-METHOXY-2-[(4-METHOXYPHENYL)SULFONYL]-1,2,3,4-TETRAHYDROISOQUINOLINE-1-CARBOXAMIDE	n/a	DrugBank	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	MARIMASTAT	antagonist	DrugBank	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	DOXYCYCLINE HYDRATE	inhibitor	ChEMBL	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	DOXYCYCLINE CALCIUM	inhibitor	ChEMBL	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP7	DOXYCYCLINE HYCLATE	inhibitor	ChEMBL	cell surface,drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP9	METHYLDOPA	n/a	PharmGKB	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP9	NIFEDIPINE	n/a	PharmGKB	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP9	PG-116800	inhibitor	TTD	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP9	MARIMASTAT	n/a	TEND	druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP9	MARIMASTAT	n/a	TdgClinicalTrial	druggable genome,neutral zinc metallopeptidase,protease	false	false
+NME1	3'-AZIDO-3'-DEOXYTHYMIDINE-5'-DIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	FUDP	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	SELENOCYSTEINE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	3'-DEOXY 3'-AMINO ADENOSINE-5'-DIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	2'-DEOXYGUANOSINE-5'-TRIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	THYMIDINE-5'- DIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	3'-AZIDO-3'-DEOXYTHYMIDINE-5'-DIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	FUDP	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	SELENOCYSTEINE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	3'-DEOXY 3'-AMINO ADENOSINE-5'-DIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	2'-DEOXYGUANOSINE-5'-TRIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+NME1	THYMIDINE-5'- DIPHOSPHATE	n/a	DrugBank	drug resistance,kinase	false	false
+VIPR1	HELODERMIN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	HELODERMIN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	HELODERMIN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	HELODERMIN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+VIPR1	[ALA<SUP>11,22,28</SUP>]VIP	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+IARS	L-ISOLEUCINE	n/a	DrugBank	druggable genome	false	false
+PLA2G2A	4-(1-BENZYL-3-CARBAMOYLMETHYL-2-METHYL-1H-INDOL-5-YLOXY)-BUTYRIC ACID	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	SURAMIN	inhibitor	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	INDOMETHACIN	inhibitor	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	1-OCTADECYL-2-ACETAMIDO-2-DEOXY-SN-GLYCEROL-3-PHOSPHOETHYLMETHYL SULFIDE	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	DICLOFENAC	inhibitor	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	1,4-BUTANEDIOL	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	6-PHENYL-4(R)-(7-PHENYL-HEPTANOYLAMINO)-HEXANOIC ACID	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	VARESPLADIB	inhibitor	TTD	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	VARESPLADIB	n/a	TdgClinicalTrial	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	VARESPLADIB	n/a	TdgClinicalTrial	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	4-(1-BENZYL-3-CARBAMOYLMETHYL-2-METHYL-1H-INDOL-5-YLOXY)-BUTYRIC ACID	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	SURAMIN	inhibitor	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	INDOMETHACIN	inhibitor	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	1-OCTADECYL-2-ACETAMIDO-2-DEOXY-SN-GLYCEROL-3-PHOSPHOETHYLMETHYL SULFIDE	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	DICLOFENAC	inhibitor	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	1,4-BUTANEDIOL	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	6-PHENYL-4(R)-(7-PHENYL-HEPTANOYLAMINO)-HEXANOIC ACID	n/a	DrugBank	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	VARESPLADIB	inhibitor	TTD	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	VARESPLADIB	n/a	TdgClinicalTrial	druggable genome,lipase,phospholipase	false	false
+PLA2G2A	VARESPLADIB	n/a	TdgClinicalTrial	druggable genome,lipase,phospholipase	false	false
+CCND1	LY2835219	n/a	ClearityFoundationBiomarkers	clinically actionable,drug resistance,kinase,transcription factor binding,tumor suppressor	false	false
+CCND1	LEE011	n/a	ClearityFoundationBiomarkers	clinically actionable,drug resistance,kinase,transcription factor binding,tumor suppressor	false	false
+CCND1	TAMOXIFEN	n/a	CIViC	clinically actionable,drug resistance,kinase,transcription factor binding,tumor suppressor	false	false
+CCND1	LY2835219	n/a	ClearityFoundationBiomarkers	clinically actionable,drug resistance,kinase,transcription factor binding,tumor suppressor	false	false
+CCND1	LEE011	n/a	ClearityFoundationBiomarkers	clinically actionable,drug resistance,kinase,transcription factor binding,tumor suppressor	false	false
+CCND1	TAMOXIFEN	n/a	CIViC	clinically actionable,drug resistance,kinase,transcription factor binding,tumor suppressor	false	false
+GLUL	L-GLUTAMIC ACID	n/a	DrugBank		false	false
+GLUL	L-GLUTAMINE	product of	DrugBank		false	false
+AHR	MEXILETINE	agonist	DrugBank	nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+AHR	FLUTAMIDE	agonist	DrugBank	nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+AHR	LEFLUNOMIDE	agonist	DrugBank	nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+AHR	ATORVASTATIN	agonist	DrugBank	nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+AHR	NIMODIPINE	agonist	DrugBank	nuclear hormone receptor,transcription factor binding,transcription factor complex	false	false
+ASS1	SODIUM BENZOATE	n/a	PharmGKB	drug resistance	false	false
+ASS1	ADENOSINE TRIPHOSPHATE	n/a	DrugBank	drug resistance	false	false
+ASS1	L-ASPARTIC ACID	n/a	DrugBank	drug resistance	false	false
+ASS1	L-CITRULLINE	n/a	DrugBank	drug resistance	false	false
+ASS1	L-ARGININE	n/a	DrugBank	drug resistance	false	false
+ASS1	L-ASPARTIC ACID	n/a	DrugBank	drug resistance	false	false
+ASS1	L-CITRULLINE	n/a	DrugBank	drug resistance	false	false
+CASP1	VX-765	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	3-{6-[(8-HYDROXY-QUINOLINE-2-CARBONYL)-AMINO]-2-THIOPHEN-2-YL-HEXANOYLAMINO}-4-OXO-BUTYRI ACID	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	MINOCYCLINE	negative modulator	DrugBank	druggable genome,protease	false	false
+CASP1	PRALNACASAN	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	3-[2-(2-BENZYLOXYCARBONYLAMINO-3-METHYL-BUTYRYLAMINO)-PROPIONYLAMINO]-4-OXO-PENTANOIC ACID	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	1-METHYL-3-TRIFLUOROMETHYL-1H-THIENO[2,3-C]PYRAZOLE-5-CARBOXYLIC ACID (2-MERCAPTO-ETHYL)-AMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	Z-YVAD-FMK	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CASP1	PRALNACASAN	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CASP1	VX-765	n/a	TdgClinicalTrial	druggable genome,protease	false	false
+CASP1	VX-765	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	3-{6-[(8-HYDROXY-QUINOLINE-2-CARBONYL)-AMINO]-2-THIOPHEN-2-YL-HEXANOYLAMINO}-4-OXO-BUTYRI ACID	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	MINOCYCLINE	negative modulator	DrugBank	druggable genome,protease	false	false
+CASP1	PRALNACASAN	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	3-[2-(2-BENZYLOXYCARBONYLAMINO-3-METHYL-BUTYRYLAMINO)-PROPIONYLAMINO]-4-OXO-PENTANOIC ACID	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	1-METHYL-3-TRIFLUOROMETHYL-1H-THIENO[2,3-C]PYRAZOLE-5-CARBOXYLIC ACID (2-MERCAPTO-ETHYL)-AMIDE	n/a	DrugBank	druggable genome,protease	false	false
+CASP1	Z-YVAD-FMK	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CASP1	PRALNACASAN	n/a	GuideToPharmacologyInteractions	druggable genome,protease	false	false
+CASP1	VX-765	n/a	TdgClinicalTrial	druggable genome,protease	false	false
+CDK1	DINACICLIB	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	BOHEMINE	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	AMINOPURVALANOL A	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK1/5 INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALSTERPAULLONE	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	AURORA KINASE/CDK INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALOISINE A	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	RONICICLIB	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK1 INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	SU9516	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK4 INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK1/2 INHIBITOR III	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	RGB-286638	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	OLOMOUCINE	binder	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	AT7519	n/a	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	HYMENIALDISINE	n/a	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	INDIRUBIN-3'-MONOXIME	binder	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	SU9516	binder	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALSTERPAULLONE	inhibitor	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	n/a	ClearityFoundationClinicalTrial	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	n/a	ClearityFoundationClinicalTrial	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	inhibitor	MyCancerGenome	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALVOCIDIB	inhibitor	MyCancerGenome	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	inhibitor	MyCancerGenomeClinicalTrial	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	BOHEMINE	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	AMINOPURVALANOL A	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK1/5 INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALSTERPAULLONE	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	AURORA KINASE/CDK INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALOISINE A	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	RONICICLIB	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK1 INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	SU9516	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK4 INHIBITOR	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	CDK1/2 INHIBITOR III	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	RGB-286638	n/a	GuideToPharmacologyInteractions	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	OLOMOUCINE	binder	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	AT7519	n/a	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	HYMENIALDISINE	n/a	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	INDIRUBIN-3'-MONOXIME	binder	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	SU9516	binder	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALSTERPAULLONE	inhibitor	DrugBank	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	n/a	ClearityFoundationClinicalTrial	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	n/a	ClearityFoundationClinicalTrial	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	inhibitor	MyCancerGenome	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	ALVOCIDIB	inhibitor	MyCancerGenome	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+CDK1	DINACICLIB	inhibitor	MyCancerGenomeClinicalTrial	dna repair,druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+MMP12	N-OXO-2-[(4-PHENYLPHENYL)SULFONYLAMINO]ETHANAMIDE	n/a	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	2-[(4-FLUOROPHENYL)SULFONYLAMINO]-N-OXO-ETHANAMIDE	n/a	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	N-(BIPHENYL-4-YLSULFONYL)-D-LEUCINE	n/a	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	MARIMASTAT	inhibitor	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	CP-271485	n/a	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	N-(DIBENZO[B,D]THIOPHEN-3-YLSULFONYL)-L-VALINE	n/a	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	BATIMASTAT	n/a	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	ACETOHYDROXAMIC ACID	inhibitor	DrugBank	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+MMP12	AZD1236	inhibitor	TTD	drug resistance,druggable genome,neutral zinc metallopeptidase,protease	false	false
+GLRX	GLUTATHIONE	n/a	DrugBank		false	false
+SLC1A1	CLOZAPINE	n/a	PharmGKB	transporter	false	false
+SLC1A1	RISPERIDONE	n/a	PharmGKB	transporter	false	false
+SLC1A1	OLANZAPINE	n/a	PharmGKB	transporter	false	false
+SLC1A1	DL-TBOA	n/a	GuideToPharmacologyInteractions	transporter	false	false
+SLC1A1	L-GLUTAMIC ACID	n/a	DrugBank	transporter	false	false
+SLC1A1	L-ASPARTIC ACID	n/a	DrugBank	transporter	false	false
+SLC1A1	CLOZAPINE	n/a	PharmGKB	transporter	false	false
+SLC1A1	RISPERIDONE	n/a	PharmGKB	transporter	false	false
+SLC1A1	OLANZAPINE	n/a	PharmGKB	transporter	false	false
+SLC1A1	DL-TBOA	n/a	GuideToPharmacologyInteractions	transporter	false	false
+SLC1A1	L-GLUTAMIC ACID	n/a	DrugBank	transporter	false	false
+SLC1A1	L-ASPARTIC ACID	n/a	DrugBank	transporter	false	false
+PSMB9	CARFILZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMB9	BORTEZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMB9	CARFILZOMIB	inhibitor	DrugBank	druggable genome,protease,tumor suppressor	false	false
+PSMB9	CARFILZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMB9	BORTEZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMB9	CARFILZOMIB	inhibitor	DrugBank	druggable genome,protease,tumor suppressor	false	false
+ATP2A2	ISTAROXIME	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ATP2A2	ISTAROXIME	n/a	TdgClinicalTrial	abc transporter,druggable genome,transporter	false	false
+ANXA3	ETHANOLAMINE	n/a	DrugBank		false	false
+AASS	L-GLUTAMIC ACID	n/a	DrugBank		false	false
+PSMA3	(3AR,6R,6AS)-6-((S)-((S)-CYCLOHEX-2-ENYL)(HYDROXY)METHYL)-6A-METHYL-4-OXO-HEXAHYDRO-2H-FURO[3,2-C]PYRROLE-6-CARBALDEHYDE	n/a	DrugBank	druggable genome,protease,tumor suppressor	false	false
+PSMA3	BORTEZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMA3	CARFILZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMA3	(3AR,6R,6AS)-6-((S)-((S)-CYCLOHEX-2-ENYL)(HYDROXY)METHYL)-6A-METHYL-4-OXO-HEXAHYDRO-2H-FURO[3,2-C]PYRROLE-6-CARBALDEHYDE	n/a	DrugBank	druggable genome,protease,tumor suppressor	false	false
+PSMA3	BORTEZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PSMA3	CARFILZOMIB	other/unknown	MyCancerGenome	druggable genome,protease,tumor suppressor	false	false
+PGK1	3-PHOSPHOGLYCERIC ACID	n/a	DrugBank	kinase	false	false
+PGK1	ADENOSINE-5'-[BETA, GAMMA-METHYLENE]TRIPHOSPHATE	n/a	DrugBank	kinase	false	false
+XDH	DIOXOTHIOMOLYBDENUM(VI) ION	n/a	DrugBank		false	false
+XDH	L-CARNITINE	n/a	DrugBank		false	false
+XDH	ALLOPURINOL	inhibitor	DrugBank		false	false
+XDH	OXYPURINOL	n/a	DrugBank		false	false
+XDH	ENILURACIL	inhibitor	DrugBank		false	false
+XDH	ALLOPURINOL	n/a	GuideToPharmacologyInteractions		false	false
+XDH	ALLOPURINOL	n/a	GuideToPharmacologyInteractions		false	false
+XDH	ALLOPURINOL SODIUM	inhibitor	ChEMBL		false	false
+XDH	FEBUXOSTAT	inhibitor	ChEMBL		false	false
+XDH	ALLOPURINOL	inhibitor	ChEMBL		false	false
+XDH	FEBUXOSTAT	inhibitor	TTD		false	false
+XDH	FEBUXOSTAT	n/a	TdgClinicalTrial		false	false
+XDH	ALLOPURINOL	n/a	TdgClinicalTrial		false	false
+XDH	OXYPURINOL	n/a	TdgClinicalTrial		false	false
+XDH	ALLOPURINOL	n/a	TdgClinicalTrial		false	false
+XDH	FEBUXOSTAT	n/a	TEND		false	false
+XDH	ALLOPURINOL	n/a	TEND		false	false
+PSMD14	BORTEZOMIB	other/unknown	MyCancerGenome	dna repair,druggable genome,neutral zinc metallopeptidase,protease,tumor suppressor	false	false
+PSMD14	CARFILZOMIB	other/unknown	MyCancerGenome	dna repair,druggable genome,neutral zinc metallopeptidase,protease,tumor suppressor	false	false
+CES2	CAPECITABINE	n/a	PharmGKB	druggable genome	false	false
+CES1	CYCLANDELATE	n/a	DrugBank	druggable genome	false	false
+CES1	(1R)-1,2,2-TRIMETHYLPROPYL (R)-METHYLPHOSPHINATE	n/a	DrugBank	druggable genome	false	false
+CES1	N-METHYLNALOXONIUM	n/a	DrugBank	druggable genome	false	false
+CES1	PROBUCOL	n/a	DrugBank	druggable genome	false	false
+CES1	(1S,7S,8S,8AR)-1,2,3,7,8,8A-HEXAHYDRO-7-METHYL-8-[2-[(2R,4R)-TETRAHYDRO-4-HY DROXY-6-OXO-2H-PYRAN-2-YL]ETHYL]-1-NAPHTHALENOL	n/a	DrugBank	druggable genome	false	false
+CES1	L-CARNITINE	n/a	DrugBank	druggable genome	false	false
+CES1	O-SIALIC ACID	n/a	DrugBank	druggable genome	false	false
+CES1	OSELTAMIVIR	other/unknown	DrugBank	druggable genome	false	false
+CES1	CHOLIC ACID	n/a	DrugBank	druggable genome	false	false
+CES1	ISONIAZID	n/a	PharmGKB	druggable genome	false	false
+CES1	CAPECITABINE	n/a	PharmGKB	druggable genome	false	false
+BIRC3	AT-406	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	AZD5582	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	SM-337	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	GDC-0152	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	LCL161	antagonist	TALC	protease inhibitor	false	false
+BIRC3	AT-406	antagonist	TALC	protease inhibitor	false	false
+BIRC3	AT-406	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	AZD5582	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	SM-337	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	GDC-0152	n/a	GuideToPharmacologyInteractions	protease inhibitor	false	false
+BIRC3	LCL161	antagonist	TALC	protease inhibitor	false	false
+BIRC3	AT-406	antagonist	TALC	protease inhibitor	false	false
+DPYD	5-IODOURACIL	n/a	DrugBank	druggable genome	false	false
+DPYD	(5S)-5-IODODIHYDRO-2,4(1H,3H)-PYRIMIDINEDIONE	n/a	DrugBank	druggable genome	false	false
+DPYD	URACIL	n/a	DrugBank	druggable genome	false	false
+DPYD	ENILURACIL	n/a	DrugBank	druggable genome	false	false
+DPYD	RIBOFLAVIN MONOPHOSPHATE	n/a	DrugBank	druggable genome	false	false
+DPYD	6-CARBOXYMETHYLURACIL	n/a	DrugBank	druggable genome	false	false
+DPYD	MITOMYCIN	n/a	PharmGKB	druggable genome	false	false
+DPYD	CAPECITABINE	n/a	PharmGKB	druggable genome	false	false
+DPYD	TEGAFUR	n/a	PharmGKB	druggable genome	false	false
+DPYD	RALTITREXED	n/a	PharmGKB	druggable genome	false	false
+DPYD	ENILURACIL	n/a	TdgClinicalTrial	druggable genome	false	false
+NR1H4	22R-HYDROXYCHOLESTEROL	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	OBETICHOLIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	FEXARAMINE	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	CHENODEOXYCHOLIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	CHENODEOXYCHOLIC ACID	other/unknown	DrugBank	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	FEXARAMINE	n/a	DrugBank	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	OBETICHOLIC ACID	n/a	TdgClinicalTrial	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	22R-HYDROXYCHOLESTEROL	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	OBETICHOLIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	FEXARAMINE	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	CHENODEOXYCHOLIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	CHENODEOXYCHOLIC ACID	other/unknown	DrugBank	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	FEXARAMINE	n/a	DrugBank	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+NR1H4	OBETICHOLIC ACID	n/a	TdgClinicalTrial	druggable genome,nuclear hormone receptor,transcription factor binding	false	false
+TYMS	PEMETREXED	n/a	ClearityFoundationBiomarkers	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	ClearityFoundationBiomarkers	drug resistance,druggable genome	false	false
+TYMS	MLS003106905	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	MLS003106905	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	MLS003106905	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	5-FLUOROURACIL	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	N-(3,5-DIMETHOXYPHENYL)IMIDODICARBONIMIDIC DIAMIDE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	GEMCITABINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	LEUCOVORIN	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	6-ETHYL-5-PHENYLPYRIMIDINE-2,4-DIAMINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	TRIFLURIDINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	S,S-(2-HYDROXYETHYL)THIOCYSTEINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	TRIMETHOPRIM	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	10-PROPARGYL-5,8-DIDEAZAFOLIC ACID	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	LEUCOVORIN	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	TEGAFUR	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	TEGAFUR	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	LEUCOVORIN	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	FOLIC ACID	n/a	PharmGKB	drug resistance,druggable genome	false	false
+TYMS	SULFASALAZINE	n/a	PharmGKB	drug resistance,druggable genome	false	true
+TYMS	RALTITREXED	n/a	PharmGKB	drug resistance,druggable genome	false	false
+TYMS	5-FLUOROURACIL	n/a	CIViC	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	CIViC	drug resistance,druggable genome	false	false
+TYMS	IRINOTECAN	n/a	CIViC	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	inhibitor	ChEMBL	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED DISODIUM	inhibitor	ChEMBL	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	inhibitor	ChEMBL	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	ClearityFoundationBiomarkers	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	ClearityFoundationBiomarkers	drug resistance,druggable genome	false	false
+TYMS	MLS003106905	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	MLS003106905	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	MLS003106905	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	5-FLUOROURACIL	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	ClearityFoundationClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	N-(3,5-DIMETHOXYPHENYL)IMIDODICARBONIMIDIC DIAMIDE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	GEMCITABINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	LEUCOVORIN	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	6-ETHYL-5-PHENYLPYRIMIDINE-2,4-DIAMINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	TRIFLURIDINE	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	S,S-(2-HYDROXYETHYL)THIOCYSTEINE	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	TRIMETHOPRIM	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	10-PROPARGYL-5,8-DIDEAZAFOLIC ACID	n/a	DrugBank	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	inhibitor	DrugBank	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	LEUCOVORIN	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	TEGAFUR	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	TEGAFUR	n/a	TdgClinicalTrial	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	LEUCOVORIN	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	TEND	drug resistance,druggable genome	false	false
+TYMS	FOLIC ACID	n/a	PharmGKB	drug resistance,druggable genome	false	false
+TYMS	SULFASALAZINE	n/a	PharmGKB	drug resistance,druggable genome	false	true
+TYMS	RALTITREXED	n/a	PharmGKB	drug resistance,druggable genome	false	false
+TYMS	5-FLUOROURACIL	n/a	CIViC	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	CIViC	drug resistance,druggable genome	false	false
+TYMS	IRINOTECAN	n/a	CIViC	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+TYMS	RALTITREXED	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED	n/a	GuideToPharmacologyInteractions	drug resistance,druggable genome	false	false
+TYMS	FLOXURIDINE	inhibitor	ChEMBL	drug resistance,druggable genome	false	false
+TYMS	PEMETREXED DISODIUM	inhibitor	ChEMBL	drug resistance,druggable genome	false	false
+TYMS	CAPECITABINE	inhibitor	ChEMBL	drug resistance,druggable genome	false	false
+PADI2	L-CITRULLINE	n/a	DrugBank	histone modification	false	false
+ANPEP	ICATIBANT	inhibitor	DrugBank	cell surface,druggable genome,external side of plasma membrane,neutral zinc metallopeptidase,protease	false	false
+ANPEP	EZETIMIBE	other/unknown	DrugBank	cell surface,druggable genome,external side of plasma membrane,neutral zinc metallopeptidase,protease	false	false
+ANPEP	TOSEDOSTAT	inhibitor	TALC	cell surface,druggable genome,external side of plasma membrane,neutral zinc metallopeptidase,protease	false	false
+ANPEP	ICATIBANT	inhibitor	DrugBank	cell surface,druggable genome,external side of plasma membrane,neutral zinc metallopeptidase,protease	false	false
+ANPEP	EZETIMIBE	other/unknown	DrugBank	cell surface,druggable genome,external side of plasma membrane,neutral zinc metallopeptidase,protease	false	false
+ANPEP	TOSEDOSTAT	inhibitor	TALC	cell surface,druggable genome,external side of plasma membrane,neutral zinc metallopeptidase,protease	false	false
+CYP2A6	(5-(PYRIDIN-3-YL)FURAN-2-YL)METHANAMINE	n/a	DrugBank	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	N,N-DIMETHYL(5-(PYRIDIN-3-YL)FURAN-2-YL)METHANAMINE	n/a	DrugBank	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	ARTESUNATE	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	COUMARIN	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	ARTEMISININ	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	LETROZOLE	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	VALPROIC ACID	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	DOCETAXEL	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+CYP2A6	CAFFEINE	n/a	PharmGKB	cytochrome p450,drug metabolism,drug resistance,druggable genome	false	false
+PAPSS1	GLYCEROL	n/a	DrugBank	kinase	false	false
+PAPSS1	ADENOSINE-5'-PHOSPHOSULFATE	n/a	DrugBank	kinase	false	false
+PAPSS1	GLYCEROL	n/a	DrugBank	kinase	false	false
+PAPSS1	ADENOSINE-5'-PHOSPHOSULFATE	n/a	DrugBank	kinase	false	false
+TUBA1A	CYT997	n/a	DrugBank	druggable genome	false	false
+TUBA1A	2-MERCAPTO-N-[1,2,3,10-TETRAMETHOXY-9-OXO-5,6,7,9-TETRAHYDRO-BENZO[A]HEPTALEN-7-YL]ACETAMIDE	n/a	DrugBank	druggable genome	false	false
+TUBA1A	EPOTHILONE B	n/a	DrugBank	druggable genome	false	false
+TUBA1A	MEBENDAZOLE	inhibitor	DrugBank	druggable genome	false	false
+TUBA1A	ALBENDAZOLE	inhibitor	DrugBank	druggable genome	false	false
+TUBA1A	VINBLASTINE	adduct	DrugBank	druggable genome	false	false
+TUBA1A	MEBENDAZOLE	n/a	TdgClinicalTrial	druggable genome	false	false
+MAP2	PACLITAXEL	n/a	DrugBank		false	false
+MAP2	ESTRAMUSTINE	antagonist	DrugBank		false	false
+MAP2	DOCETAXEL	n/a	DrugBank		false	false
+AREG	CRIZOTINIB	n/a	CIViC	cell surface,clinically actionable,growth factor	false	false
+IL7R	RUXOLITINIB	n/a	DoCM	cell surface,clinically actionable,external side of plasma membrane	false	false
+FYN	DASATINIB	inhibitor	TTD	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	ENMD-2076	n/a	TdgClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	n/a	TEND	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	multitarget	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	inhibitor	TTD	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	VX-680	inhibitor	TTD	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	inhibitor	TTD	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	ENMD-2076	n/a	TdgClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	n/a	TdgClinicalTrial	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	n/a	TEND	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	multitarget	DrugBank	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	DASATINIB	inhibitor	TTD	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+FYN	VX-680	inhibitor	TTD	drug resistance,druggable genome,kinase,tyrosine kinase	false	false
+PRNP	TETRACYCLINE	inhibitor	DrugBank	cell surface,drug resistance,tumor suppressor	false	false
+PRNP	TETRACYCLINE	inhibitor	DrugBank	cell surface,drug resistance,tumor suppressor	false	false
+LGALS1	THIODIGALACTOSIDE	n/a	DrugBank	cell surface,drug resistance	false	false
+STAT5B	DASATINIB	n/a	TEND	tumor suppressor	false	false
+STAT5B	DASATINIB	n/a	TdgClinicalTrial	tumor suppressor	false	false
+STAT5B	DASATINIB	inhibitor	DrugBank	tumor suppressor	false	false
+TNNC2	FELODIPINE	other/unknown	DrugBank		false	false
+TNNC2	CALCIUM	agonist	DrugBank		false	false
+TNNC2	OCTYLPHENOXY POLYETHOXYETHANOL	n/a	DrugBank		false	false
+ATP6V1B2	GALLIUM NITRATE	inhibitor	DrugBank	abc transporter,transporter	false	false
+ATP6V1B2	4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE	n/a	DrugBank	abc transporter,transporter	false	false
+ATP6V1B2	GALLIUM NITRATE	inhibitor	DrugBank	abc transporter,transporter	false	false
+ATP6V1B2	4-(2-AMINOETHYL)BENZENESULFONYL FLUORIDE	n/a	DrugBank	abc transporter,transporter	false	false
+PLAUR	WX-UK1	n/a	DrugBank	kinase	false	false
+F2R	VORAPAXAR	antagonist	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	STREPTOKINASE	cleavage	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	VORAPAXAR	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	RUSALATIDE	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	VORAPAXAR	antagonist	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	STREPTOKINASE	cleavage	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	VORAPAXAR	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+F2R	RUSALATIDE	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+L3MBTL1	2-(N-MORPHOLINO)-ETHANESULFONIC ACID	n/a	DrugBank	tumor suppressor	false	false
+PTGER3	CLOPROSTENOL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	TREPROSTINIL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	SULPROSTONE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	SULPROSTONE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	FLUPROSTENOL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	L-826266	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ENPROSTIL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ENPROSTIL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	GR 63799	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	SC-51322	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ILOPROST	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CARBACYCLIN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ONO-AE-248	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ILOPROST	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	L-826266	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	L-826266	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CLOPROSTENOL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CICAPROST	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	MISOPROSTOL	agonist	DrugBank	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	BIMATOPROST	n/a	TdgClinicalTrial	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	MISOPROSTOL	agonist	ChEMBL	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CLOPROSTENOL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	TREPROSTINIL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	SULPROSTONE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	SULPROSTONE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	FLUPROSTENOL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	L-826266	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ENPROSTIL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ENPROSTIL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	GR 63799	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	SC-51322	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ILOPROST	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CARBACYCLIN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ONO-AE-248	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	ILOPROST	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	L-826266	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	L-826266	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CLOPROSTENOL	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	CICAPROST	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	DG-041	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	MISOPROSTOL	agonist	DrugBank	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	BIMATOPROST	n/a	TdgClinicalTrial	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+PTGER3	MISOPROSTOL	agonist	ChEMBL	druggable genome,g protein coupled receptor,nuclear hormone receptor	false	false
+CXCR4	MSX-122	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	ALX40-4C	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	n/a	TEND	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	antagonist	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	AMD-070	n/a	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	AMD-070	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	partial agonist	ChEMBL	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	DOCETAXEL	n/a	CIViC	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	MSX-122	antagonist	TTD	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	ALX40-4C	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	n/a	GuideToPharmacologyInteractions	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	n/a	TEND	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	antagonist	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	AMD-070	n/a	DrugBank	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	AMD-070	n/a	TdgClinicalTrial	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	PLERIXAFOR	partial agonist	ChEMBL	cell surface,druggable genome,g protein coupled receptor	false	false
+CXCR4	DOCETAXEL	n/a	CIViC	cell surface,druggable genome,g protein coupled receptor	false	false
+CYP4F2	PHENPROCOUMON	n/a	PharmGKB	cytochrome p450,drug metabolism,druggable genome	false	false
+CYP4F2	ACENOCOUMAROL	n/a	PharmGKB	cytochrome p450,drug metabolism,druggable genome	false	false
+P2RY14	UDP-GALACTOSE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	UDP-GLUCURONIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	PPTN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	UDP-GLUCOSE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	UDP-GALACTOSE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	UDP-GLUCURONIC ACID	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	PPTN	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+P2RY14	UDP-GLUCOSE	n/a	GuideToPharmacologyInteractions	druggable genome,g protein coupled receptor	false	false
+SELL	BIMOSIAMOSE	n/a	TdgClinicalTrial	cell surface,external side of plasma membrane	false	false
+CDK3	RGB-286638	n/a	GuideToPharmacologyInteractions	druggable genome,kinase,serine threonine kinase,tumor suppressor	false	false
+PPIC	L-PROLINE	n/a	DrugBank	druggable genome	false	false
