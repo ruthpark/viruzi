@@ -4,7 +4,7 @@ import os
 
 def read_file():
 	str = ""
-	with open("../mapping.txt") as genes:
+	with open("../networks/mapping.txt") as genes:
 		lines = [line.rstrip('\n') for line in genes]
 		for line in lines:
 			genes = line.split("\t")
